@@ -183,6 +183,6 @@ body.dark-mode .dropdown .btn {
 }
 
 body:not(.dark-mode) .dropdown .btn {
-    background-color: #f8f9fa;
+    background-color: #f8f9fe;
     color: #000;
 }
